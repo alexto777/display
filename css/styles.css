@@ -1,0 +1,12 @@
+h1 {
+    background-color: lightblue;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+}
+
+a {
+    background-color: lightcoral;
+    /* Las porpiedades de alto y ancho no se aplican a los elementos en linea width: 100%; height: 80px; */
+
+}
